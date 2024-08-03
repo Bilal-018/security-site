@@ -5,7 +5,11 @@ module.exports = {
     extend: {
       colors: {
         logoRed: '#EB1C22'
-      }
+      },
+      backgroundImage: {
+        'hero-home': "url('./assets/img/Hero-Home.png')",
+        "map": "url('./assets/img/map-white.png')"
+      },
     },
   },
   plugins: [],
